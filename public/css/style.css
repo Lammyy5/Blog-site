@@ -1,0 +1,12 @@
+:root {
+--header: rgba(66, 29, 29, 0.876);
+--body: rgb(234, 244, 226);
+}
+
+.nevbar{
+background-color: var(--header);
+}
+
+.nav-item{
+    color: black;
+}
